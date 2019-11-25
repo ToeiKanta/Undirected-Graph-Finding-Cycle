@@ -6,7 +6,7 @@ run program => bin/Debug/UndirectedGraphFindingCycle.exe
 
 ## for education
 
-*ผู้จัดทำ นายกันตพงศ์ พูนเกษม วิศวกรรมคอมพิวเตอร์ ปี 3
+*ผู้จัดทำ นายกันตพงศ์ พูนเกษม วิศวกรรมคอมพิวเตอร์ ปี 3 [contact](https://www.facebook.com/Kantapong41)
 
 ![](https://i.imgur.com/zGtPLtK.png)
 
